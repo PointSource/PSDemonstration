@@ -10,3 +10,4 @@ Master branch edit.
 More edits
 
 -- Added best feature ever
+-- Improved the best feature
