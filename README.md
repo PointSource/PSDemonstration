@@ -14,3 +14,7 @@ More edits
 - More improvements to the best feature
 - Added more goodness
 - Added more features
+
+Changelog
+=========
+- Hacked on more new features
