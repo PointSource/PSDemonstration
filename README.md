@@ -3,7 +3,7 @@ PSDemonstration
 
 Demonstration of Git practices.  Some are the best.  Some, just good.
 
-Git is the bomb.com.
+Git is the bomb.
 
 Master branch edit.
 
