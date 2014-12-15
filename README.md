@@ -5,8 +5,6 @@ Demonstration of Git practices.  Some are the best.  Some, just good.
 
 Git is the bomb.
 
-Master branch edit.
-
 More edits
 
 - Added best feature ever
