@@ -11,6 +11,6 @@ More edits
 
 -- Added best feature ever
 -- Improved the best feature
--- More improvements
+-- More improvements to the best feature
 -- Added more goodness
 -- Added more features
