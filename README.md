@@ -9,8 +9,8 @@ Master branch edit.
 
 More edits
 
--- Added best feature ever
--- Improved the best feature
--- More improvements to the best feature
--- Added more goodness
--- Added more features
+- Added best feature ever
+- Improved the best feature
+- More improvements to the best feature
+- Added more goodness
+- Added more features
