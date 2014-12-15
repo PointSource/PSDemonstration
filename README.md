@@ -18,3 +18,4 @@ More edits
 Changelog
 =========
 - Hacked on more new features
+- Revamped old features
