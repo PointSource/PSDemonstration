@@ -3,7 +3,7 @@ PSDemonstration
 
 Demonstration of Git practices.  Some are the best.  Some, just good.
 
-Git is the bomb.
+Git and github are the bomb.
 
 More edits
 
