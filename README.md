@@ -3,7 +3,7 @@ PSDemonstration
 
 Demonstration of Git practices.  Some are the best.  Some, just good.
 
-Git and github are the bomb.
+Git and github are the bomb.  Yes they are.
 
 Less edits
 
@@ -19,3 +19,4 @@ Changelog
 - Revamped old features
 - Create a new branch for demonstration
 - Working on the branch for demonstration
+- Show changes to the most awesome group
