@@ -5,7 +5,7 @@ Demonstration of Git practices.  Some are the best.  Some, just good.
 
 Git and github are the bomb.
 
-More edits
+Less edits
 
 - Added best feature ever
 - Improved the best feature
