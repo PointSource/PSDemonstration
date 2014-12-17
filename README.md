@@ -20,4 +20,4 @@ Changelog
 - Create a new branch for demonstration
 - Working on the branch for demonstration
 - Show changes to the most awesome group
-- Show changes to different files
+- Show changes to different file
