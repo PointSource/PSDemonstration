@@ -13,7 +13,7 @@ Less edits
 * Added more goodness
 * Added more features
 * This bullet is off the CHAIN
-* Who's the best?
+* Who's the best?  Patriots (Rand Um User)
 
 Changelog
 =========
