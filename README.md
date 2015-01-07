@@ -15,7 +15,7 @@ Less edits
 * This bullet is off the CHAIN
 * And master goes on
 * I'm changing this one in an incompatible way
-* Rand Um User making a change
+* A new line for a merge issue-- Andre
 
 Changelog
 =========
