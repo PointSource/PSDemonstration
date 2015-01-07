@@ -14,6 +14,7 @@ Less edits
 * Added more features
 * This bullet is off the CHAIN
 * And master goes on
+* This is the base line that is going to have a merge conflict
 
 Changelog
 =========
