@@ -23,3 +23,4 @@ Changelog
 * Working on the branch for demonstration
 * Show changes to the most awesome group
 * Show changes to different files
+* Adding a stupendous new feature
