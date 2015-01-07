@@ -16,6 +16,7 @@ Less edits
 * And master goes on
 * I'm changing this one in an incompatible way
 * A new line for a merge issue-- Andre
+* working on the best branch ever
 
 Changelog
 =========
