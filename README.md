@@ -13,6 +13,7 @@ Less edits
 * Added more goodness
 * Added more features
 * This bullet is off the CHAIN
+* And master goes on
 
 Changelog
 =========
