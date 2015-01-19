@@ -28,4 +28,4 @@ Changelog
 * Show changes to the most awesome group
 * Show changes to different files
 * Adding a stupendous new feature
-* Added hook test
+* Added hook test2
