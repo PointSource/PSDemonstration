@@ -25,6 +25,7 @@ Changelog
 * Revamped old features
 * Create a new branch for demonstration
 * Working on the branch for demonstration
+* Next feature
 * Doing my fork demonstration
 * Show changes to the most awesome group
 * Show changes to different files
