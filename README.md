@@ -1,7 +1,7 @@
 PSDemonstration
 ===============
 
-Demonstration of Git practices.  Some are the best.  Some, just good.
+Demonstration of Git practices.
 
 Git and github are the bomb.  Yes they are.
 
